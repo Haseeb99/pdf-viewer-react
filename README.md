@@ -1,4 +1,4 @@
-PDF viewer boilerplate for React using `react-pdf`
+PDF viewer boilerplate for React using [`react-pdf`](https://github.com/wojtekmaj/react-pdf)
 
 ## Clone and test on browser
 
